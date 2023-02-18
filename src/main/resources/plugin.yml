@@ -1,0 +1,4 @@
+name: QueryApi
+version: '${project.version}'
+main: org.shawngao.spigot.queryapi.QueryApi
+authors: [ ShawnGao ]
